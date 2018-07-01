@@ -38,5 +38,5 @@ JS中“万物皆对象是错的”
 使用 new 调用函数时会把新对象的 .prototype 属性关联到“其他对象”。带 new 的函数调用通常被称为“构造函数调用”，尽管它们实际上和传统面向类语言中的类构造函数不一样。
 
 #### 参考
-* ![You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-* ![你不知道的JavaScript上卷笔记](https://www.cnblogs.com/GongQi/p/5426055.html)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [你不知道的JavaScript上卷笔记](https://www.cnblogs.com/GongQi/p/5426055.html)
